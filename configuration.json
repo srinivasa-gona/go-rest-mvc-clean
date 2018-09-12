@@ -1,0 +1,9 @@
+{
+    "db_hostname" : "localhost",
+    "db_username" : "",
+    "db_password" : "",
+    "db_port" : 5432,
+    "db_schema": "contactsdb",
+    "db_ssl_mode" : "disable",
+    "jwt_token_password" : "token_password"
+}
